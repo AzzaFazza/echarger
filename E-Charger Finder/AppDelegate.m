@@ -7,12 +7,17 @@
 //
 
 #import "AppDelegate.h"
+#import <GoogleMaps/GoogleMaps.h>
 
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+     [[UILabel appearance] setFont:[UIFont fontWithName:@"DINAlternate-Bold" size:13.0]];
+    [GMSServices provideAPIKey:@"AIzaSyD9aeOg_tOqS3hnTh1kMMzh0o2lZ_ydnsQ"];
+    [UIApplication sharedApplication].statusBarStyle = UIStatusBarStyleDefault;
+    
     return YES;
 }
 							
