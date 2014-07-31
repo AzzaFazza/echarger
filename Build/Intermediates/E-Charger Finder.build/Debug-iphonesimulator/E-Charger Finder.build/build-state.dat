@@ -1,0 +1,1402 @@
+TE-Charger Finder
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch.pch E-Charger\ Finder/E-Charger\ Finder-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/TableViewCell.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/TableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/CHCSVParser.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/CHCSVParser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/MBProgressHUD.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/MBProgressHUD.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/ViewController.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/AppDelegate.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/main.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/chargerTableViewController.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/chargerTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/E-Charger\ Finder normal x86_64
+cCpResource E-Charger\ Finder/dataFull.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/dataFull.csv
+cCpResource E-Charger\ Finder/Default-568h@2x.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/Default-568h@2x.png
+cCpResource E-Charger\ Finder/AppIconNew.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIconNew.png
+cCopyStringsFile /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/en.lproj/InfoPlist.strings E-Charger\ Finder/en.lproj/InfoPlist.strings
+cCpResource E-Charger\ Finder/launch1.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/launch1.png
+cCpResource E-Charger\ Finder/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/GoogleMaps.bundle
+cCpResource E-Charger\ Finder/AppIcon40pt.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIcon40pt.png
+cCpResource E-Charger\ Finder/data.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/data.csv
+cCpResource E-Charger\ Finder/unknown.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/unknown.csv
+cCpResource E-Charger\ Finder/AppIcon.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIcon.png
+cCompileStoryboard /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/Images.xcassets
+cProcessInfoPlistFile /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/Info.plist /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/E-Charger\ Finder-Info.plist
+cGenerateDSYMFile /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app.dSYM /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/E-Charger\ Finder
+cTouch /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053B12BA800000000000003B4
+t1404119976
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053B12BAE000000000000019E
+t1404119982
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c0000000053B12BB00000000000484210
+t1404119984
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c0000000053B12BB00000000000098030
+t1404119984
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053B12BB0000000000058E0E0
+t1404119984
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000053B12BB100000000006CED60
+t1404119985
+s7138656
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000053B12BB000000000005B82F0
+t1404119984
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053B12BB00000000000446820
+t1404119984
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000053B12BB100000000003599D0
+t1404119985
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c0000000053B12BB000000000000F1A80
+t1404119984
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000053B12BB100000000002FC3B0
+t1404119985
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053B12BB1000000000004B000
+t1404119985
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053B12BB2000000000088D8C0
+t1404119986
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/GLKit.framework/GLKit
+c0000000053B12BB200000000000B9CE0
+t1404119986
+s761056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c0000000053B12BB3000000000067F940
+t1404119987
+s6814016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c0000000053B12BB200000000002E6B60
+t1404119986
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000053B12BB30000000000037680
+t1404119987
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053B12BB4000000000048F720
+t1404119988
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053B12BB3000000000013FD70
+t1404119987
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000053B12BB400000000001081C0
+t1404119988
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053B12BB60000000001F1DE10
+t1404119990
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000053B12BC000000000002BC360
+t1404120000
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c0000000053B12BC60000000000002338
+t1404120006
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000053B12BC6000000000008D370
+t1404120006
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++.dylib
+c0000000053B12BC600000000001730B0
+t1404120006
+s1519792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
+c0000000053B12BC600000000000681A0
+t1404120006
+s426400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib
+c0000000053B12BC600000000004F47E0
+t1404120006
+s5195744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c0000000053B12BC60000000000392E20
+t1404120006
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+c0000000053B12BC6000000000002B700
+t1404120006
+s177920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000053B2A61900000000000141F0
+t1404216857
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c0000000053B12BC60000000000014A80
+t1404120006
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000053B12BC70000000000033BA0
+t1404120007
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000053B12BC6000000000001CFB0
+t1404120006
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053B12BC7000000000001B2B0
+t1404120007
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c0000000053B12BC700000000000C9570
+t1404120007
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c0000000053B12BC70000000000063280
+t1404120007
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000053B12BC70000000000008880
+t1404120007
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000053B12BC70000000000015080
+t1404120007
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000053B12BC700000000000230F0
+t1404120007
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053B12BC7000000000000E380
+t1404120007
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c0000000053B12BC70000000000089380
+t1404120007
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c0000000053B12BC70000000000017320
+t1404120007
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000053B12BC70000000000039CD0
+t1404120007
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053B12BC7000000000000B0B0
+t1404120007
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000053B12BC70000000000167E80
+t1404120007
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000053B12BC700000000000106A0
+t1404120007
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053B12BC7000000000001CE40
+t1404120007
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000053B12BC700000000000740C0
+t1404120007
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053B12BC7000000000006CA60
+t1404120007
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053B12BC7000000000001BAD0
+t1404120007
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c0000000053B12BC70000000000084A20
+t1404120007
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053B12BDA0000000000000ADC
+t1404120026
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053B12BDA000000000000514C
+t1404120026
+s20812
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/AppDelegate.o
+t1406277563
+s70412
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/CHCSVParser.o
+t1406277563
+s111596
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/E-Charger Finder.LinkFileList
+c0000000053D217BA00000000000004A0
+t1406277562
+s1184
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/MBProgressHUD.o
+t1406277563
+s203656
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/TableViewCell.o
+t1406277563
+s51212
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/ViewController.o
+t1406277563
+s65940
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/chargerTableViewController.o
+t1406277563
+s82912
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/main.o
+t1406277563
+s3796
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/assetcatalog_dependencies.txt
+t1406277565
+s551
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/assetcatalog_generated_info.plist
+t1406277565
+s815
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/PrecompiledHeaders/E-Charger Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger Finder-Prefix.pch.pch
+t1406277563
+s116908
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app
+t1406277566
+s646
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app.dSYM
+t1406277566
+s102
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/AppIcon.png
+t1406277564
+s5980
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/AppIcon40pt.png
+t1406277564
+s3240
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/AppIconNew.png
+t1406277564
+s3859
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/Base.lproj/Main.storyboardc
+t1406277566
+s238
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/Default-568h@2x.png
+t1406277564
+s85493
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/E-Charger Finder
+t1406277564
+s5698156
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/GoogleMaps.bundle
+t1406277564
+s748
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/Info.plist
+t1406277566
+s1130
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/PkgInfo
+t1406277566
+s8
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/data.csv
+t1406277564
+s867
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/dataFull.csv
+t1406277564
+s1748
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/en.lproj/InfoPlist.strings
+t1406277564
+s42
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/launch1.png
+t1406277564
+s82976
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/unknown.csv
+t1406277564
+s14147
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/AppDelegate.h
+c0000000053BAA76D000000000000011C
+t1404741485
+s284
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/AppDelegate.m
+c0000000053BBFA2600000000000008FB
+t1404828198
+s2299
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/AppIcon.png
+c0000000053BBD8E3000000000000175C
+t1404819683
+s5980
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/AppIcon40pt.png
+c0000000053BC16480000000000000CA8
+t1404835400
+s3240
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/AppIconNew.png
+c0000000053BC17530000000000000F13
+t1404835667
+s3859
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/Base.lproj/Main.storyboard
+c0000000053C133AF00000000000022EA
+t1405170607
+s8938
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/CHCSVParser.h
+c0000000053BAB154000000000000107D
+t1404744020
+s4221
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/CHCSVParser.m
+c0000000053BAB1540000000000006833
+t1404744020
+s26675
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/Default-568h@2x.png
+c0000000053BC3EBF0000000000014DF5
+t1404845759
+s85493
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/E-Charger Finder-Info.plist
+c0000000053BC2E7D00000000000004FE
+t1404841597
+s1278
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/E-Charger Finder-Prefix.pch
+c0000000053BAA76D0000000000000158
+t1404741485
+s344
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle
+c0000000053BBD51700000000000002EC
+t1404818711
+s748
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/Images.xcassets
+c0000000053BC3EE30000000000000088
+t1404845795
+s136
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/MBProgressHUD.h
+c0000000053BBBFA20000000000004149
+t1404813218
+s16713
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/MBProgressHUD.m
+c0000000053BBBFA200000000000080D7
+t1404813218
+s32983
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/TableViewCell.h
+c0000000053BBC7D700000000000001C5
+t1404815319
+s453
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/TableViewCell.m
+c0000000053BBC7E900000000000002C8
+t1404815337
+s712
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.h
+c0000000053BBF50D0000000000000111
+t1404826893
+s273
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m
+c0000000053BC3A4900000000000010B3
+t1404844617
+s4275
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.h
+c0000000053BB12AD000000000000015D
+t1404768941
+s349
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m
+c0000000053C1B3C200000000000017DC
+t1405203394
+s6108
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/data.csv
+c0000000053BAB01F0000000000000363
+t1404743711
+s867
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/dataFull.csv
+c0000000053BBD46E00000000000006D4
+t1404818542
+s1748
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/en.lproj/InfoPlist.strings
+c0000000053BAA76D000000000000002D
+t1404741485
+s45
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/launch1.png
+c0000000053BC3E6C0000000000014420
+t1404845676
+s82976
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/main.m
+c0000000053BAA76D0000000000000158
+t1404741485
+s344
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/unknown.csv
+c0000000053C12F620000000000003743
+t1405169506
+s14147
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/GoogleMaps
+c00000000537A070200000000032F87FC
+t1400506114
+s53446652
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSAddress.h
+c00000000537A06F6000000000000070A
+t1400506102
+s1802
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCALayer.h
+c00000000537A06F600000000000001FB
+t1400506102
+s507
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCameraPosition.h
+c00000000537A06F600000000000011DA
+t1400506102
+s4570
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCameraUpdate.h
+c00000000537A06F60000000000000CC7
+t1400506102
+s3271
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCircle.h
+c00000000537A06F60000000000000587
+t1400506102
+s1415
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCoordinateBounds.h
+c00000000537A06F60000000000000B6B
+t1400506102
+s2923
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSGeocoder.h
+c00000000537A06F600000000000006A0
+t1400506102
+s1696
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSGeometryUtils.h
+c00000000537A06F60000000000002158
+t1400506102
+s8536
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSGroundOverlay.h
+c00000000537A06F60000000000000994
+t1400506102
+s2452
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSIndoorBuilding.h
+c00000000537A06F60000000000000336
+t1400506102
+s822
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSIndoorDisplay.h
+c00000000537A06F60000000000000753
+t1400506102
+s1875
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSIndoorLevel.h
+c00000000537A06F600000000000002CC
+t1400506102
+s716
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMapLayer.h
+c00000000537A06F60000000000000E53
+t1400506102
+s3667
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMapView+Animation.h
+c00000000537A06F60000000000000735
+t1400506102
+s1845
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMapView.h
+c00000000537A06F600000000000030D5
+t1400506102
+s12501
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMarker.h
+c00000000537A06F60000000000001466
+t1400506102
+s5222
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMarkerLayer.h
+c00000000537A06F60000000000000514
+t1400506102
+s1300
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMutablePath.h
+c00000000537A06F600000000000006F9
+t1400506102
+s1785
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSOrientation.h
+c00000000537A06F600000000000003FC
+t1400506102
+s1020
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSOverlay.h
+c00000000537A06F60000000000000748
+t1400506102
+s1864
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanorama.h
+c00000000537A06F60000000000000374
+t1400506102
+s884
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaCamera.h
+c00000000537A06F600000000000009A2
+t1400506102
+s2466
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h
+c00000000537A06F6000000000000032E
+t1400506102
+s814
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaLayer.h
+c00000000537A06F600000000000004B9
+t1400506102
+s1209
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaLink.h
+c00000000537A06F60000000000000260
+t1400506102
+s608
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaService.h
+c00000000537A06F600000000000006C9
+t1400506102
+s1737
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaView.h
+c00000000537A06F600000000000021C7
+t1400506102
+s8647
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPath.h
+c00000000537A06F60000000000000DFC
+t1400506102
+s3580
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPolygon.h
+c00000000537A06F60000000000000519
+t1400506102
+s1305
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPolyline.h
+c00000000537A06F60000000000000BFC
+t1400506102
+s3068
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSProjection.h
+c00000000537A06F60000000000000A6D
+t1400506102
+s2669
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSServices.h
+c00000000537A06F6000000000000070E
+t1400506102
+s1806
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSSyncTileLayer.h
+c00000000537A06F6000000000000034C
+t1400506102
+s844
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSTileLayer.h
+c00000000537A06F60000000000000DFB
+t1400506102
+s3579
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSUISettings.h
+c00000000537A06F60000000000000CDC
+t1400506102
+s3292
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSURLTileLayer.h
+c00000000537A06F60000000000000611
+t1400506102
+s1553
+
+N/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GoogleMaps.h
+c00000000537A06F6000000000000068D
+t1400506102
+s1677
+
+N/usr/lib/libSystem.B.dylib
+c0000000053B2A618000000000000E6D0
+t1404216856
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052CBDC360000000000012A00
+t1389091894
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052CBDC12000000000002E320
+t1389091858
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052CBDC230000000000021860
+t1389091875
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053B2A619000000000001B610
+t1404216857
+s112144
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052CBDC3500000000000BD920
+t1389091893
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000053B2A61900000000000141F0
+t1404216857
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052CBDC36000000000000A120
+t1389091894
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053B2A619000000000001D550
+t1404216857
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052CBDC350000000000014EE0
+t1389091893
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052CBDC380000000000010380
+t1389091896
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052CBDC38000000000000C4C0
+t1389091896
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052CBDC3600000000000357A0
+t1389091894
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052CBDC36000000000000C070
+t1389091894
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000053B2A6190000000000168D00
+t1404216857
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000053B2A6190000000000010630
+t1404216857
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053B2A619000000000001DF10
+t1404216857
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052CBDC230000000000075B00
+t1389091875
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053B2A619000000000007CD60
+t1404216857
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052CBDC2300000000000766C0
+t1389091875
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000053B2A6190000000000044DC0
+t1404216857
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052CBDC230000000000021FA0
+t1389091875
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053B2A619000000000002D920
+t1404216857
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052CBDC37000000000001E570
+t1389091895
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053B2A619000000000000CC70
+t1404216857
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c0000000053B2A6190000000000009A80
+t1404216857
+s39552
+
+N/usr/lib/system/libunc.dylib
+c0000000052CBDC2F000000000000C3F0
+t1389091887
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052CBDC3700000000000199F0
+t1389091895
+s104944
+
+CBuild AST from /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/AppDelegate.m
+r0
+
+CBuild AST from /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/CHCSVParser.m
+r0
+
+CBuild AST from /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/MBProgressHUD.m
+r0
+
+CBuild AST from /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/TableViewCell.m
+r0
+
+CBuild AST from /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/ViewController.m
+r0
+
+CBuild AST from /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/chargerTableViewController.m
+r0
+
+CBuild AST from /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf1bc18444f82b941^172c19444f82b941^---0#1#1#--18"Check dependencies36"0412D6A5-62B0-4C5E-B570-65E7FC1A4B34-
+
+CCompileAssetCatalog /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/Images.xcassets
+s427970364.453924
+e427970365.666401
+r1
+xCompileAssetCatalog
+x/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app
+x/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/LaunchImage-2-700@2x.png
+o/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/LaunchImage-2-700-568h@2x.png
+o/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/Assets.car
+o/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"CompileAssetCatalog Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app E-Charger\ Finder/Images.xcassets112"CompileAssetCatalog Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app E-Charger\ Finder/Images.xcassets874d743c4f82b941^3199aa3d4f82b941^-578"/* com.apple.actool.compilation-results *//Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/LaunchImage-2-700@2x.png/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/LaunchImage-2-700-568h@2x.png/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/Assets.car/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/Images.xcassets/0000000000000000^1248"CompileAssetCatalog Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app E-Charger\ Finder/Images.xcassets    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/assetcatalog_generated_info.plist --app-icon AppIcon-2 --launch-image LaunchImage-2 --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/Images.xcassets36"A1E20280-C68D-469D-8A1F-3B6A7038B70D-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/AppDelegate.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427970363.623123
+e427970363.740979
+r1
+xCompileC
+xBuild/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/AppDelegate.m
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/AppDelegate.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GoogleMaps.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSAddress.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMapView.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMapLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCALayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSUISettings.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCameraPosition.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCameraUpdate.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCircle.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSOverlay.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCoordinateBounds.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSProjection.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSGeocoder.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSGeometryUtils.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPath.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSGroundOverlay.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSIndoorBuilding.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSIndoorDisplay.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSIndoorLevel.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMapView+Animation.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMarker.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMarkerLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMutablePath.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSOrientation.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanorama.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaCamera.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaLink.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaService.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaView.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPolygon.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPolyline.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSServices.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSSyncTileLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSTileLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSURLTileLayer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/AppDelegate.m236"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/AppDelegate.o E-Charger\ Finder/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbda69f3b4f82b941^b0cabd3b4f82b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/AppDelegate.m0000000000000000^4062"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/AppDelegate.o E-Charger\ Finder/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/adamf/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-generated-files.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-own-target-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-all-target-headers.hmap -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-project-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources/x86_64 -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources -F/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator -F/Users/adamf/Desktop/Apps/E-Charger\ Finder -include /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch -MMD -MT dependencies -MF /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/AppDelegate.m -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/AppDelegate.o36"DA46BFDB-60C3-44A3-93DB-DC1DAB111691-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/CHCSVParser.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/CHCSVParser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427970363.466102
+e427970363.622345
+r1
+xCompileC
+xBuild/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/CHCSVParser.o
+x/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/CHCSVParser.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/CHCSVParser.m
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/CHCSVParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/CHCSVParser.m236"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/CHCSVParser.o E-Charger\ Finder/CHCSVParser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera86d773b4f82b941^915f9f3b4f82b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/CHCSVParser.m0000000000000000^4062"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/CHCSVParser.o E-Charger\ Finder/CHCSVParser.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/adamf/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-generated-files.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-own-target-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-all-target-headers.hmap -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-project-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources/x86_64 -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources -F/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator -F/Users/adamf/Desktop/Apps/E-Charger\ Finder -include /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch -MMD -MT dependencies -MF /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/CHCSVParser.d --serialize-diagnostics /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/CHCSVParser.dia -c /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/CHCSVParser.m -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/CHCSVParser.o36"C4713508-CC6C-4D0A-825F-5C0F605D98EE-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/MBProgressHUD.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/MBProgressHUD.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427970363.466557
+e427970363.745711
+r1
+xCompileC
+xBuild/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/MBProgressHUD.o
+x/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/MBProgressHUD.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/MBProgressHUD.m
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/MBProgressHUD.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/MBProgressHUD.m240"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/MBProgressHUD.o E-Charger\ Finder/MBProgressHUD.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0a9d773b4f82b941^0befbe3b4f82b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/MBProgressHUD.m0000000000000000^4074"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/MBProgressHUD.o E-Charger\ Finder/MBProgressHUD.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/adamf/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-generated-files.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-own-target-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-all-target-headers.hmap -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-project-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources/x86_64 -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources -F/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator -F/Users/adamf/Desktop/Apps/E-Charger\ Finder -include /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch -MMD -MT dependencies -MF /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/MBProgressHUD.d --serialize-diagnostics /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/MBProgressHUD.dia -c /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/MBProgressHUD.m -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/MBProgressHUD.o36"63AF4CA4-0282-439B-ACF8-6E0A9B5DDA96-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/TableViewCell.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/TableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427970363.465734
+e427970363.554659
+r1
+xCompileC
+xBuild/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/TableViewCell.o
+x/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/TableViewCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/TableViewCell.m
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/TableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/TableViewCell.m240"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/TableViewCell.o E-Charger\ Finder/TableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere25c773b4f82b941^43028e3b4f82b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/TableViewCell.m0000000000000000^4074"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/TableViewCell.o E-Charger\ Finder/TableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/adamf/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-generated-files.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-own-target-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-all-target-headers.hmap -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-project-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources/x86_64 -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources -F/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator -F/Users/adamf/Desktop/Apps/E-Charger\ Finder -include /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch -MMD -MT dependencies -MF /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/TableViewCell.d --serialize-diagnostics /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/TableViewCell.dia -c /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/TableViewCell.m -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/TableViewCell.o36"B5CCC7A9-DAE5-4D9E-AF80-9A2EB308387C-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/ViewController.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427970363.555495
+e427970363.816779
+r1
+xCompileC
+xBuild/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/ViewController.o
+x/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GoogleMaps.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSAddress.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMapView.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMapLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCALayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSUISettings.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCameraPosition.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCameraUpdate.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCircle.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSOverlay.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSCoordinateBounds.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSProjection.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSGeocoder.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSGeometryUtils.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPath.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSGroundOverlay.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSIndoorBuilding.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSIndoorDisplay.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSIndoorLevel.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMapView+Animation.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMarker.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMarkerLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSMutablePath.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSOrientation.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanorama.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaCamera.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaLink.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaService.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPanoramaView.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPolygon.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSPolyline.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSServices.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSSyncTileLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSTileLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/Headers/GMSURLTileLayer.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/MBProgressHUD.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/CHCSVParser.h
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:63:5: warning: local declaration of 'locationManager' hides instance variable [-Wshadow-ivar]
+o    locationManager.delegate        = self;  //SET YOUR DELEGATE HERE
+o    ^
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:63:37: warning: assigning to 'id<CLLocationManagerDelegate>' from incompatible type 'ViewController *const __strong'
+o    locationManager.delegate        = self;  //SET YOUR DELEGATE HERE
+o                                    ^ ~~~~
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:64:5: warning: local declaration of 'locationManager' hides instance variable [-Wshadow-ivar]
+o    locationManager.desiredAccuracy = kCLLocationAccuracyBest; //SET THIS TO SPECIFY THE ACCURACY
+o    ^
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:65:6: warning: local declaration of 'locationManager' hides instance variable [-Wshadow-ivar]
+o    [locationManager startUpdatingLocation];
+o     ^
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:66:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+o    NSLog(newLocation);
+o          ^~~~~~~~~~~
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:85:9: warning: local declaration of 'parser' hides instance variable [-Wshadow-ivar]
+o        parser.delegate = self;
+o        ^
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:85:25: warning: assigning to 'id<CHCSVParserDelegate>' from incompatible type 'ViewController *const __strong'
+o        parser.delegate = self;
+o                        ^ ~~~~
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:86:10: warning: local declaration of 'parser' hides instance variable [-Wshadow-ivar]
+o        [parser parse];
+o         ^
+o8 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m242"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/ViewController.o E-Charger\ Finder/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9f598e3b4f82b941^1216d13b4f82b941^-1947"/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:63:5: warning: local declaration of 'locationManager' hides instance variable [-Wshadow-ivar]    locationManager.delegate        = self;  //SET YOUR DELEGATE HERE    ^/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:63:37: warning: assigning to 'id<CLLocationManagerDelegate>' from incompatible type 'ViewController *const __strong'    locationManager.delegate        = self;  //SET YOUR DELEGATE HERE                                    ^ ~~~~/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:64:5: warning: local declaration of 'locationManager' hides instance variable [-Wshadow-ivar]    locationManager.desiredAccuracy = kCLLocationAccuracyBest; //SET THIS TO SPECIFY THE ACCURACY    ^/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:65:6: warning: local declaration of 'locationManager' hides instance variable [-Wshadow-ivar]    [locationManager startUpdatingLocation];     ^/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:66:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]    NSLog(newLocation);          ^~~~~~~~~~~/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:85:9: warning: local declaration of 'parser' hides instance variable [-Wshadow-ivar]        parser.delegate = self;        ^/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:85:25: warning: assigning to 'id<CHCSVParserDelegate>' from incompatible type 'ViewController *const __strong'        parser.delegate = self;                        ^ ~~~~/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/ViewController.m:86:10: warning: local declaration of 'parser' hides instance variable [-Wshadow-ivar]        [parser parse];         ^8 warnings generated.8(36%IDEClangDiagnosticActivityLogMessage2@62"Local declaration of 'locationManager' hides instance variable-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^62#4#62#4#2005#0#14"Semantic Issue--2@100"Assigning to 'id<CLLocationManagerDelegate>' from incompatible type 'ViewController *const __strong'-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^62#36#62#36#2037#0#14"Semantic Issue1(3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^62#38#62#42#2039#0#-2@62"Local declaration of 'locationManager' hides instance variable-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^63#4#63#4#2075#0#14"Semantic Issue--2@62"Local declaration of 'locationManager' hides instance variable-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^64#5#64#5#2174#0#14"Semantic Issue--2@60"Format string is not a string literal (potentially insecure)-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^65#10#65#10#2224#0#19"Format String Issue1(3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^65#10#65#21#2224#0#-2@53"Local declaration of 'parser' hides instance variable-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^84#8#84#8#2940#0#14"Semantic Issue--2@94"Assigning to 'id<CHCSVParserDelegate>' from incompatible type 'ViewController *const __strong'-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^84#24#84#24#2956#0#14"Semantic Issue1(3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^84#26#84#30#2958#0#-2@53"Local declaration of 'parser' hides instance variable-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^85#9#85#9#2973#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@87"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/ViewController.m0000000000000000^4080"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/ViewController.o E-Charger\ Finder/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/adamf/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-generated-files.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-own-target-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-all-target-headers.hmap -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-project-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources/x86_64 -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources -F/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator -F/Users/adamf/Desktop/Apps/E-Charger\ Finder -include /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch -MMD -MT dependencies -MF /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/ViewController.d --serialize-diagnostics /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/ViewController.dia -c /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/ViewController.m -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/ViewController.o36"550E8E7D-F4B3-4785-94EC-1101BD297835-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/chargerTableViewController.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/chargerTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427970363.746556
+e427970363.857048
+r1
+xCompileC
+xBuild/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/chargerTableViewController.o
+x/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/CHCSVParser.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/MBProgressHUD.h
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/TableViewCell.h
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:57:21: warning: assigning to 'id<MBProgressHUDDelegate>' from incompatible type 'chargerTableViewController *const __strong'
+o        pv.delegate = self;
+o                    ^ ~~~~
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:78:9: warning: local declaration of 'parser' hides instance variable [-Wshadow-ivar]
+o        parser.delegate = self;
+o        ^
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:78:25: warning: assigning to 'id<CHCSVParserDelegate>' from incompatible type 'chargerTableViewController *const __strong'
+o        parser.delegate = self;
+o                        ^ ~~~~
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:79:10: warning: local declaration of 'parser' hides instance variable [-Wshadow-ivar]
+o        [parser parse];
+o         ^
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:81:21: warning: values of type 'NSUInteger' should not be used as format arguments; add an explicit cast to 'unsigned long' instead [-Wformat]
+o        NSLog(@"%d",[rows count]);
+o                ~~  ^~~~~~~~~~~~
+o                %lu (unsigned long)
+o/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:126:14: warning: incompatible pointer types assigning to 'TableViewCell *' from 'UITableViewCell *' [-Wincompatible-pointer-types]
+o        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier];
+o             ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+oIn module 'UIKit' imported from /Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:62:1: note: instance method 'initWithStyle:reuseIdentifier:' is assumed to return an instance of its receiver type ('UITableViewCell *')
+o- (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier NS_AVAILABLE_IOS(3_0);
+o^
+o6 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m266"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/chargerTableViewController.o E-Charger\ Finder/chargerTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler753fbf3b4f82b941^be68db3b4f82b941^-2339"/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:57:21: warning: assigning to 'id<MBProgressHUDDelegate>' from incompatible type 'chargerTableViewController *const __strong'        pv.delegate = self;                    ^ ~~~~/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:78:9: warning: local declaration of 'parser' hides instance variable [-Wshadow-ivar]        parser.delegate = self;        ^/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:78:25: warning: assigning to 'id<CHCSVParserDelegate>' from incompatible type 'chargerTableViewController *const __strong'        parser.delegate = self;                        ^ ~~~~/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:79:10: warning: local declaration of 'parser' hides instance variable [-Wshadow-ivar]        [parser parse];         ^/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:81:21: warning: values of type 'NSUInteger' should not be used as format arguments; add an explicit cast to 'unsigned long' instead [-Wformat]        NSLog(@"%d",[rows count]);                ~~  ^~~~~~~~~~~~                %lu (unsigned long)/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.m:126:14: warning: incompatible pointer types assigning to 'TableViewCell *' from 'UITableViewCell *' [-Wincompatible-pointer-types]        cell = [[UITableViewCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier];             ^ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~In module 'UIKit' imported from /Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/chargerTableViewController.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:62:1: note: instance method 'initWithStyle:reuseIdentifier:' is assumed to return an instance of its receiver type ('UITableViewCell *')- (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier NS_AVAILABLE_IOS(3_0);^6 warnings generated.6(36%IDEClangDiagnosticActivityLogMessage2@108"Assigning to 'id<MBProgressHUDDelegate>' from incompatible type 'chargerTableViewController *const __strong'-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^56#20#56#20#1374#0#14"Semantic Issue1(3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^56#22#56#26#1376#0#-2@53"Local declaration of 'parser' hides instance variable-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^77#8#77#8#2164#0#14"Semantic Issue--2@106"Assigning to 'id<CHCSVParserDelegate>' from incompatible type 'chargerTableViewController *const __strong'-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^77#24#77#24#2180#0#14"Semantic Issue1(3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^77#26#77#30#2182#0#-2@53"Local declaration of 'parser' hides instance variable-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^78#9#78#9#2197#0#14"Semantic Issue--2@115"Values of type 'NSUInteger' should not be used as format arguments; add an explicit cast to 'unsigned long' instead-427970363#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^80#20#80#20#2376#0#19"Format String Issue4(3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^80#20#80#32#2376#11#3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^80#16#80#18#2372#2#3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^80#16#80#18#2372#2#3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^80#20#80#20#2376#0#-2@82"Incompatible pointer types assigning to 'TableViewCell *' from 'UITableViewCell *'-427970363#18446744073709551615#0#1(2@124"Instance method 'initWithStyle:reuseIdentifier:' is assumed to return an instance of its receiver type ('UITableViewCell *')-427970363#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h0000000000000000^61#0#61#0#2851#0#25"Related Result Type Issue--1#27"com.apple.dt.IDE.diagnostic3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^125#13#125#13#3968#0#14"Semantic Issue1(3@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^125#15#125#113#3970#97#-0#0#1#-19%DVTDocumentLocation4@99"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/chargerTableViewController.m0000000000000000^4152"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/chargerTableViewController.o E-Charger\ Finder/chargerTableViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/adamf/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-generated-files.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-own-target-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-all-target-headers.hmap -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-project-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources/x86_64 -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources -F/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator -F/Users/adamf/Desktop/Apps/E-Charger\ Finder -include /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch -MMD -MT dependencies -MF /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/chargerTableViewController.d --serialize-diagnostics /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/chargerTableViewController.dia -c /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/chargerTableViewController.m -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/chargerTableViewController.o36"6CEE2C7C-94B2-4528-8FE6-01589A40541E-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/main.o /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427970363.741897
+e427970363.787330
+r1
+xCompileC
+xBuild/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/main.o
+x/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/main.m
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/main.m222"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/main.o E-Charger\ Finder/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere204be3b4f82b941^c493c93b4f82b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/main.m0000000000000000^4020"CompileC Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/main.o E-Charger\ Finder/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/adamf/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-generated-files.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-own-target-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-all-target-headers.hmap -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-project-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources/x86_64 -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources -F/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator -F/Users/adamf/Desktop/Apps/E-Charger\ Finder -include /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch -MMD -MT dependencies -MF /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/main.dia -c /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/main.m -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/main.o36"D46A54B3-07AE-412E-AA58-302AC75D584A-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCompileStoryboard /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/Base.lproj/Main.storyboard
+s427970364.450600
+e427970366.315616
+r1
+xCompileStoryboard
+x/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard E-Charger\ Finder/Base.lproj/Main.storyboard62"CompileStoryboard E-Charger\ Finder/Base.lproj/Main.storyboard3674733c4f82b941^31cd503e4f82b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/Base.lproj/Main.storyboard0000000000000000^885"CompileStoryboard E-Charger\ Finder/Base.lproj/Main.storyboard    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/Base.lproj/Main.storyboardc /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/Base.lproj/Main.storyboard36"5DB82726-A2FC-4386-9383-9D6692156DAD-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCopyStringsFile /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/en.lproj/InfoPlist.strings E-Charger\ Finder/en.lproj/InfoPlist.strings
+s427970364.442465
+e427970364.444361
+r1
+xCopyStringsFile
+x/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/en.lproj/InfoPlist.strings
+xE-Charger Finder/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy E-Charger Finder/en.lproj/InfoPlist.strings146"CopyStringsFile Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/en.lproj/InfoPlist.strings E-Charger\ Finder/en.lproj/InfoPlist.stringsfb58713c4f82b941^b2d9713c4f82b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/en.lproj/InfoPlist.strings0000000000000000^644"CopyStringsFile Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/en.lproj/InfoPlist.strings E-Charger\ Finder/en.lproj/InfoPlist.strings    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/en.lproj -- E-Charger\ Finder/en.lproj/InfoPlist.strings36"29E34AEA-4B8A-4969-AC9D-064161E53794-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCpResource E-Charger\ Finder/AppIcon.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIcon.png
+s427970364.450616
+e427970364.453167
+r1
+xCpResource
+xE-Charger Finder/AppIcon.png
+xBuild/Products/Debug-iphonesimulator/E-Charger Finder.app/AppIcon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/E-Charger Finder.app/AppIcon.png111"CpResource E-Charger\ Finder/AppIcon.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIcon.png96b3733c4f82b941^f20b833c4f82b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/Build/Products/Debug-iphonesimulator/E-Charger%20Finder.app/AppIcon.png00342822deffdf42^648"CpResource E-Charger\ Finder/AppIcon.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIcon.png    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/AppIcon.png /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app36"F18A57B0-9EBE-4FAB-BF8D-1E109F6B35FA-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCpResource E-Charger\ Finder/AppIcon40pt.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIcon40pt.png
+s427970364.445004
+e427970364.446420
+r1
+xCpResource
+xE-Charger Finder/AppIcon40pt.png
+xBuild/Products/Debug-iphonesimulator/E-Charger Finder.app/AppIcon40pt.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy Build/Products/Debug-iphonesimulator/E-Charger Finder.app/AppIcon40pt.png119"CpResource E-Charger\ Finder/AppIcon40pt.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIcon40pt.png9cfd713c4f82b941^12a4723c4f82b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/Build/Products/Debug-iphonesimulator/E-Charger%20Finder.app/AppIcon40pt.png00342822deffdf42^660"CpResource E-Charger\ Finder/AppIcon40pt.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIcon40pt.png    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/AppIcon40pt.png /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app36"0C82EF5A-8748-4D5D-BCF4-C95383B3AF00-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCpResource E-Charger\ Finder/AppIconNew.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIconNew.png
+s427970364.427088
+e427970364.442059
+r1
+xCpResource
+xE-Charger Finder/AppIconNew.png
+xBuild/Products/Debug-iphonesimulator/E-Charger Finder.app/AppIconNew.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/E-Charger Finder.app/AppIconNew.png117"CpResource E-Charger\ Finder/AppIconNew.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIconNew.pngf9686d3c4f82b941^7a34713c4f82b941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/Build/Products/Debug-iphonesimulator/E-Charger%20Finder.app/AppIconNew.png00342822deffdf42^657"CpResource E-Charger\ Finder/AppIconNew.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/AppIconNew.png    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/AppIconNew.png /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app36"E8A0D536-65C6-40D0-81BF-8D68778F396E-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCpResource E-Charger\ Finder/Default-568h@2x.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/Default-568h@2x.png
+s427970364.426306
+e427970364.443242
+r1
+xCpResource
+xE-Charger Finder/Default-568h@2x.png
+xBuild/Products/Debug-iphonesimulator/E-Charger Finder.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy Build/Products/Debug-iphonesimulator/E-Charger Finder.app/Default-568h@2x.png127"CpResource E-Charger\ Finder/Default-568h@2x.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/Default-568h@2x.pngda396d3c4f82b941^938b713c4f82b941^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/Build/Products/Debug-iphonesimulator/E-Charger%20Finder.app/Default-568h@2x.png00342822deffdf42^672"CpResource E-Charger\ Finder/Default-568h@2x.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/Default-568h@2x.png    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/Default-568h@2x.png /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app36"1A4BFEEA-7595-4503-BB99-E8C93A4F641D-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCpResource E-Charger\ Finder/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/GoogleMaps.bundle
+s427970364.443755
+e427970364.512374
+r1
+xCpResource
+xE-Charger Finder/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle
+xBuild/Products/Debug-iphonesimulator/E-Charger Finder.app/GoogleMaps.bundle
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy Build/Products/Debug-iphonesimulator/E-Charger Finder.app/GoogleMaps.bundle165"CpResource E-Charger\ Finder/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/GoogleMaps.bundle53b1713c4f82b941^3546833c4f82b941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/Build/Products/Debug-iphonesimulator/E-Charger%20Finder.app/GoogleMaps.bundle00342822deffdf42^750"CpResource E-Charger\ Finder/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/GoogleMaps.bundle    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app36"286B8AF0-47A2-4969-BC49-1CFA2F68F738-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCpResource E-Charger\ Finder/data.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/data.csv
+s427970364.446432
+e427970364.449314
+r1
+xCpResource
+xE-Charger Finder/data.csv
+xBuild/Products/Debug-iphonesimulator/E-Charger Finder.app/data.csv
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy Build/Products/Debug-iphonesimulator/E-Charger Finder.app/data.csv105"CpResource E-Charger\ Finder/data.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/data.csv66a0723c4f82b941^2845733c4f82b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/Build/Products/Debug-iphonesimulator/E-Charger%20Finder.app/data.csv00342822deffdf42^639"CpResource E-Charger\ Finder/data.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/data.csv    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/data.csv /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app36"3C286A19-BAC5-494C-9FC0-F75F2995510C-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCpResource E-Charger\ Finder/dataFull.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/dataFull.csv
+s427970364.425809
+e427970364.441936
+r1
+xCpResource
+xE-Charger Finder/dataFull.csv
+xBuild/Products/Debug-iphonesimulator/E-Charger Finder.app/dataFull.csv
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug-iphonesimulator/E-Charger Finder.app/dataFull.csv113"CpResource E-Charger\ Finder/dataFull.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/dataFull.csv48196d3c4f82b941^3529713c4f82b941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/Build/Products/Debug-iphonesimulator/E-Charger%20Finder.app/dataFull.csv00342822deffdf42^651"CpResource E-Charger\ Finder/dataFull.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/dataFull.csv    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/dataFull.csv /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app36"4412BA22-1234-41FB-8BB0-169A5002D34A-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCpResource E-Charger\ Finder/launch1.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/launch1.png
+s427970364.442648
+e427970364.445493
+r1
+xCpResource
+xE-Charger Finder/launch1.png
+xBuild/Products/Debug-iphonesimulator/E-Charger Finder.app/launch1.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/E-Charger Finder.app/launch1.png111"CpResource E-Charger\ Finder/launch1.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/launch1.pnge162713c4f82b941^cf10723c4f82b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/Build/Products/Debug-iphonesimulator/E-Charger%20Finder.app/launch1.png00342822deffdf42^648"CpResource E-Charger\ Finder/launch1.png Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/launch1.png    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/launch1.png /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app36"E0CFFFE6-8D10-4CE5-B070-4B8FC2B69382-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CCpResource E-Charger\ Finder/unknown.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/unknown.csv
+s427970364.446829
+e427970364.450227
+r1
+xCpResource
+xE-Charger Finder/unknown.csv
+xBuild/Products/Debug-iphonesimulator/E-Charger Finder.app/unknown.csv
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/E-Charger Finder.app/unknown.csv111"CpResource E-Charger\ Finder/unknown.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/unknown.csve677723c4f82b941^f226733c4f82b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/Build/Products/Debug-iphonesimulator/E-Charger%20Finder.app/unknown.csv00342822deffdf42^648"CpResource E-Charger\ Finder/unknown.csv Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/unknown.csv    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/unknown.csv /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app36"A098234F-D08D-4972-A258-370324975FFE-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CGenerateDSYMFile /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app.dSYM /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/E-Charger\ Finder
+s427970366.319212
+e427970366.387553
+r1
+xGenerateDSYMFile
+x/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app.dSYM
+x/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/E-Charger Finder
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Generate /Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app.dSYM157"GenerateDSYMFile Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app.dSYM Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/E-Charger\ Finderefcb513e4f82b941^8637633e4f82b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/Build/Products/Debug-iphonesimulator/E-Charger%20Finder.app.dSYM00342822deffdf42^737"GenerateDSYMFile Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app.dSYM Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/E-Charger\ Finder    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/E-Charger\ Finder -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app.dSYM36"234E8737-ACE5-467B-9023-7A62FF92DAA4-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CLd /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/E-Charger\ Finder normal x86_64
+s427970363.859734
+e427970364.423975
+r1
+xLd
+x/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/E-Charger Finder
+xnormal
+xx86_64
+d/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/E-Charger Finder.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/TableViewCell.o
+d/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/CHCSVParser.o
+d/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/MBProgressHUD.o
+d/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/ViewController.o
+d/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/main.o
+d/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/E-Charger Finder.build/Debug-iphonesimulator/E-Charger Finder.build/Objects-normal/x86_64/chargerTableViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/GLKit.framework/GLKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Users/adamf/Desktop/Apps/E-Charger Finder/GoogleMaps.framework/GoogleMaps
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libc++abi.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Link /Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/E-Charger Finder93"Ld Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/E-Charger\ Finder normal x86_64b130dc3b4f82b941^a88f6c3c4f82b941^---0#0#1#--1837"Ld Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/E-Charger\ Finder normal x86_64    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator -F/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator -F/Users/adamf/Desktop/Apps/E-Charger\ Finder -filelist /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/E-Charger\ Finder.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework SystemConfiguration -framework QuartzCore -framework OpenGLES -lz -framework ImageIO -licucore -lc++ -framework GLKit -framework CoreText -framework CoreData -framework AVFoundation -framework CoreLocation -framework MapKit -framework CoreGraphics -framework GoogleMaps -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/Objects-normal/x86_64/E-Charger\ Finder_dependency_info.dat -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/E-Charger\ Finder36"65E9BB7F-AFD5-42E8-9B66-415DB420DF93-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CProcessInfoPlistFile /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/Info.plist /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/E-Charger\ Finder-Info.plist
+s427970366.316390
+e427970366.318677
+r1
+xProcessInfoPlistFile
+x/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Products/Debug-iphonesimulator/E-Charger Finder.app/Info.plist
+x/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/E-Charger Finder-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Process /Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/E-Charger Finder-Info.plist137"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/Info.plist E-Charger\ Finder/E-Charger\ Finder-Info.plista912513e4f82b941^fe47523e4f82b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/E-Charger%20Finder-Info.plist0000000000000000^998"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/Info.plist E-Charger\ Finder/E-Charger\ Finder-Info.plist    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/E-Charger\ Finder-Info.plist -genpkginfo /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/assetcatalog_generated_info.plist -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app/Info.plist36"F17520AD-9A80-412C-AE6E-89C9E4149CB9-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CProcessPCH /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch.pch E-Charger\ Finder/E-Charger\ Finder-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427970362.191110
+e427970363.465024
+r1
+xProcessPCH
+x/Users/adamf/Desktop/Apps/E-Charger Finder/Build/Intermediates/PrecompiledHeaders/E-Charger Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger Finder-Prefix.pch.pch
+xE-Charger Finder/E-Charger Finder-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adamf/Desktop/Apps/E-Charger Finder/E-Charger Finder/E-Charger Finder-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile E-Charger Finder/E-Charger Finder-Prefix.pch253"ProcessPCH Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch.pch E-Charger\ Finder/E-Charger\ Finder-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilercd02313a4f82b941^f20b773b4f82b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/adamf/Desktop/Apps/E-Charger%20Finder/E-Charger%20Finder/E-Charger%20Finder-Prefix.pch0000000000000000^3922"ProcessPCH Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch.pch E-Charger\ Finder/E-Charger\ Finder-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/adamf/Desktop/Apps/E-Charger Finder"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/adamf/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-generated-files.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-own-target-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-all-target-headers.hmap -iquote /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/E-Charger\ Finder-project-headers.hmap -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources/x86_64 -I/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/E-Charger\ Finder.build/Debug-iphonesimulator/E-Charger\ Finder.build/DerivedSources -F/Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator -F/Users/adamf/Desktop/Apps/E-Charger\ Finder --serialize-diagnostics /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch.dia -MMD -MT dependencies -MF /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch.d -c /Users/adamf/Desktop/Apps/E-Charger\ Finder/E-Charger\ Finder/E-Charger\ Finder-Prefix.pch -o /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Intermediates/PrecompiledHeaders/E-Charger\ Finder-Prefix-brvndtxpfiwizgfxajkefjzzljtr/E-Charger\ Finder-Prefix.pch.pch36"FC183C44-D781-4D5C-A00C-3D2A70E3397D-
+b89733843-334D-49AE-AA11-46F0FFF72B97
+
+CProcessPCH /Users/adamf/Library/Developer/Xcode/DerivedData/E-Charger_Finder-apfvcshpdkzqxbddlnvezvccpksz/Index/PrecompiledHeaders/E-Charger\ Finder-Prefix-fvdjpkxdtmndgfgsawtborxraihv_ast/E-Charger\ Finder-Prefix.pch.pch E-Charger\ Finder/E-Charger\ Finder-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/adamf/Desktop/Apps/E-Charger\ Finder/Build/Products/Debug-iphonesimulator/E-Charger\ Finder.app
+r0
+

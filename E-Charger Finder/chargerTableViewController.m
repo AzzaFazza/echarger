@@ -74,7 +74,7 @@
         NSLog(@"Loading Data: Successful");
         loadedCSV = true;
         [pv hide:true];
-        CHCSVParser *parser=[[CHCSVParser alloc] initWithContentsOfCSVFile:[NSHomeDirectory() stringByAppendingPathComponent:@"dataFull.csv"] delimiter:','];
+        CHCSVParser *parser=[[CHCSVParser alloc] initWithContentsOfCSVFile:[NSHomeDirectory() stringByAppendingPathComponent:@"l.csv"] delimiter:','];
         parser.delegate = self;
         [parser parse];
         CHCSVWriter *csvWriter=[[CHCSVWriter alloc]initForWritingToCSVFile:[NSHomeDirectory() stringByAppendingPathComponent:@"dataFull.csv"]];

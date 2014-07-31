@@ -10,6 +10,7 @@
 #import <GoogleMaps/GoogleMaps.h>
 #import "MBProgressHUD.h"
 #import "CHCSVParser.h"
+#import <CoreLocation/CoreLocation.h>
 
 @interface ViewController ()
 {
@@ -17,24 +18,34 @@
     CHCSVParser *parser;
     BOOL loadedCSV;
     MBProgressHUD * pv;
-
-
+    CLLocationManager * locationManager;
 }
 
 @end
 
 @implementation ViewController
 @synthesize rows;
+- (NSString *)deviceLocation {
+    NSString *theLocation = [NSString stringWithFormat:@"latitude: %f longitude: %f", locationManager.location.coordinate.latitude, locationManager.location.coordinate.longitude];
+    return theLocation;
+}
 - (void)viewDidLoad
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSArray *fontFamilies = [UIFont familyNames];
+    locationManager = [[CLLocationManager alloc] init];
+    locationManager.distanceFilter = kCLDistanceFilterNone;
+    locationManager.desiredAccuracy = kCLLocationAccuracyNearestTenMeters; // 10 m
+    
+    
+    [locationManager startUpdatingLocation];
+    
+    
     // Create a GMSCameraPosition that tells the map to display the
     // coordinate -33.86,151.20 at zoom level 6.
-    GMSCameraPosition *camera = [GMSCameraPosition cameraWithLatitude:54.345539
-                                                            longitude:-7.638513
-                                                                 zoom:7];
+    GMSCameraPosition *camera = [GMSCameraPosition cameraWithLatitude:locationManager.location.coordinate.latitude
+                                                            longitude:locationManager.location.coordinate.longitude
+                                                                 zoom:13];
     mapView_ = [GMSMapView mapWithFrame:CGRectZero camera:camera];
     mapView_.myLocationEnabled = YES;
     self.view = mapView_;
